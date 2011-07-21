@@ -1041,6 +1041,5 @@
 		 <string name="settings_attachment_default_path">Сохранять вложения в...</string>
 		 <string name="attachment_save_title">Сохранить вложение</string>
 		 <string name="attachment_save_desc">Не найден браузер файлов. Где бы вы хотели сохранить вложение?</string>
-
 	<string name="folder_none">Нет</string>
 </resources>
